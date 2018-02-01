@@ -1,0 +1,9 @@
+{
+	"user": "SAMP-git",
+	"repo": "pointers",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
